@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### blog : https://velog.io/@gjrjr4545/posts
+### 이력서 : https://absorbing-hat-4be.notion.site/182f5ceac30980e1895df2a504239065?pvs=74
+
 <!--
 **bocopile/bocopile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
