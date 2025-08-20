@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-### blog : https://velog.io/@gjrjr4545/posts
-### 이력서 : https://absorbing-hat-4be.notion.site/182f5ceac30980e1895df2a504239065?pvs=74
+### blog
+<a href="https://velog.io/@gjrjr4545/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+
+### 이력서 
+<a href="https://absorbing-hat-4be.notion.site/182f5ceac30980e1895df2a504239065?pvs=74" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 <!--
 **bocopile/bocopile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
