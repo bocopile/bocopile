@@ -10,7 +10,7 @@ DevOps Enginner 신복호 입니다!
 
 
 ---
-[![bocopile's GitHub stats](https://github-readme-stats.vercel.app/api?username=bocopile&show_icons=true&theme=radical)
+[![bocopile's GitHub stats](https://github-readme-stats.vercel.app/api?username=bocopile)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
